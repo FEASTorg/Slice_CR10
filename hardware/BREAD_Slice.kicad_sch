@@ -6449,7 +6449,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal"
+		(property "Footprint" "CRx:Pheonix Conn Term TDPT 4 2-SP-6,35-ZB"
 			(at 143.51 116.84 0)
 			(effects
 				(font
@@ -7107,7 +7107,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal"
+		(property "Footprint" "CRx:Pheonix Conn Term TDPT 4 2-SP-6,35-ZB"
 			(at 237.49 118.11 0)
 			(effects
 				(font
@@ -7324,7 +7324,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal"
+		(property "Footprint" "CRx:Pheonix Conn Term TDPT 4 2-SP-6,35-ZB"
 			(at 143.51 57.15 0)
 			(effects
 				(font
@@ -8181,7 +8181,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal"
+		(property "Footprint" "CRx:Pheonix Conn Term TDPT 4 2-SP-6,35-ZB"
 			(at 233.68 57.15 0)
 			(effects
 				(font
